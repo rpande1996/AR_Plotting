@@ -58,9 +58,11 @@ SOFTWARE.
 Following demo is for Tag0.mp4
 
 - [Superimposing Image:](https://youtu.be/RCyzip66vL8)
+
 ![ezgif com-gif-maker](https://github.com/rpande1996/AR_Plotting/blob/main/media/gif/testudo.gif)
 
 - [AR Cube Plotting:](https://youtu.be/v349lcfAsPU)
+
 ![ezgif com-gif-maker](https://github.com/rpande1996/AR_Plotting/blob/main/media/gif/cube.gif)
 
 ## Build
